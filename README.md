@@ -31,7 +31,5 @@ Resources utilized:
 - Coding: 
   - I struggled a bit with why the exception tests were not running. Turns out I needed to pass a callback. [This medium article helped](https://medium.com/@afolabiwaheed/how-to-test-a-function-thats-expected-to-throw-error-in-jest-2419cc7c6462)
 
-### Notes:
 
-Thank you very much for this opportunity. I'm really fond of Nest js now. Definitely will also look into angular fairly soon - I read that nest js has been dubbed angular for the backend. Please let me know if you absolutely need me to finish the other things - I'll try my very best. It's been very hectic preparing for 3 lectures and for our move (we are moving July 1st).
 
